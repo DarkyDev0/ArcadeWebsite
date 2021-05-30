@@ -1,0 +1,49 @@
+body {
+    background: url("./splash.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+
+nav {
+    font-size: 24px;
+    text-align: right;
+    margin: 2px;
+}
+
+.personal {
+    font-size: 24px;
+    text-align: center;
+    color: rgb(253, 137, 101);
+}
+
+.arcade {
+    font-size: 24px;
+    text-align: center;
+    color: rgb(253, 137, 101);
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    text-align: center;
+    font-size: 36px;
+}
+
+.ping {
+    text-align: right;
+    color: white;
+}
+
+.restart {
+    text-align: left;
+    color: red;
+}
